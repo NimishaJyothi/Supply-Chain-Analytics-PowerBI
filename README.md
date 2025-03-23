@@ -27,8 +27,6 @@ This Power BI dashboard provides **data-driven insights** to optimize supply cha
 - 📁 `Documentation/` – Project report and methodology  
 
 ## 🚀 Live Dashboard  
-👉 **View Interactive Dashboard** : (Dashboard)[https://app.powerbi.com/links/j9yu1NIVHt?ctid=64104084-6571-4713-9f7f-89d622f677f2&pbi_source=linkShare]  
+👉 **View Interactive [Dashboard](https://app.powerbi.com/links/j9yu1NIVHt?ctid=64104084-6571-4713-9f7f-89d622f677f2&pbi_source=linkShare)**  
 
-📩 **Connect with me on LinkedIn**:(LinkedIn)[www.linkedin.com/in/nimishajyothi005]  
-
-Would love to hear your feedback! Feel free to fork, star ⭐, or contribute!  
+📩 **Connect with me on [LinkedIn](www.linkedin.com/in/nimishajyothi005)**  
